@@ -11,3 +11,6 @@ taskservice 用于定时同步所采集的rss订阅源数据到数据库
 * service/db/db.js 第八行
 * taskservice/db/db.js 第八行
 * 分别复制service/db/db.sql和taskservice/db/db.sql的代码，用于创建数据表
+
+
+如有问题请提issues，开源不易，求star
