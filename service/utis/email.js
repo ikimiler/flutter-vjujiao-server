@@ -5,8 +5,8 @@ const config = {
     port: 465,
     secure:true,
     auth: {
-        user: 'admin@vjujiao.com', 
-        pass: 'Kelianren2009' 
+        user: 'xxxx', 
+        pass: 'xxxx' 
     }
 }
 
